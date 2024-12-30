@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "content_demos",
+  "info": {
+    "singularName": "content-demo",
+    "pluralName": "content-demos",
+    "displayName": "content-demo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "editor": {
+      "type": "richtext"
+    }
+  }
+}
